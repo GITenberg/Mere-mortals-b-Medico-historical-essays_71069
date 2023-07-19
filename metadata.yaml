@@ -1,0 +1,40 @@
+_repo: Mere-mortals-b-Medico-historical-essays_71069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacLaurin, C. (Charles)
+    alias: MacLaurin, Charles
+    birthdate: 1872
+    deathdate: 1925
+    gutenberg_agent_id: '55087'
+    url: http://www.gutenberg.org/2009/agents/55087
+description: 'At top of title page-- Post Mortems: Two'
+gutenberg_issued: '2023-06-29'
+identifiers:
+  gutenberg: '71069'
+language: en
+pgterms:marc904: https://archive.org/details/meremortalsmedic0000macl
+pgterms:marc905: 20220811013832maclaurin
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: MWS and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bGeorge H. Doran Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography'
+- !lcsh 'Pathology'
+- !lcc 'CT'
+- !lcc 'D'
+- GITenberg
+tableOfContents: 'Dr. Johnson -- King Henry the Saint -- The tragedy of the Tudors:
+  King Henry VIII. Edward VI. Mary Tudor. Queen Elizabeth -- Ivan the Terrible --
+  Luther''s devil -- Henry Fielding -- King James I -- King Charles I -- King Charles
+  II, Catherine of Braganza and Nell Gwynn -- Henri Quatre and Marguerite de Valois
+  -- Frederick the Great -- The children''s crusade -- Some epidemics of social importance
+  -- F. W. Nietzsche -- Arthur Schopenhauer -- Baruch Spinoza.'
+title: 'Mere mortals : $b Medico-historical essays'
+url: http://www.gutenberg.org/ebooks/71069
